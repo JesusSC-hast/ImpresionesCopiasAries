@@ -14,4 +14,4 @@ Este proyecto tiene como objetivo desarrollar una solución de software para la 
 ## Instrucciones de Configuración
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/ImpresionesCopiasAries.git
+   git clone https://github.com/JesusSC-hast/ImpresionesCopiasAries.git
