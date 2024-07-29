@@ -6,8 +6,8 @@ Este proyecto tiene como objetivo desarrollar una solución de software para la 
 ## Tecnologías Utilizadas
 - Java
 - Spring Framework
-- MySQL
-- GitHub
+- MySQL 
+- GitHub 
 - Trello
 - JUnit
 
