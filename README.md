@@ -22,16 +22,16 @@ La arquitectura del sistema se basa en una aplicación web desarrollada en Java 
 
 ## Tabla de Contenidos
 
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Problema Identificado](#problema-identificado)
-3. [Solución](#solución)
-4. [Arquitectura](#arquitectura)
-5. [Requerimientos](#requerimientos)
-6. [Instalación](#instalación)
-7. [Configuración](#configuración)
-8. [Uso del Producto](#uso-del-producto)
-9. [Guía de Contribución](#guía-de-contribución)
-10. [Roadmap](#roadmap)
+1. [Descripción del Proyecto](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Descripci%C3%B3n-del-Proyecto)
+2. [Problema Identificado](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Problema-Identificado)
+3. [Solución](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Soluci%C3%B3n)
+4. [Arquitectura](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Arquitectura)
+5. [Requerimientos](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Requerimientos)
+6. [Instalación](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Instalaci%C3%B3n)
+7. [Configuración](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Configuraci%C3%B3n)
+8. [Uso del Producto](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Uso-del-Producto)
+9. [Guía de Contribución](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Gu%C3%ADa-de-Contribuci%C3%B3n)
+10. [Roadmap](https://github.com/JesusSC-hast/ImpresionesCopiasAries/wiki/Roadmap)
 
 ## Requerimientos
 
